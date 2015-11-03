@@ -1,0 +1,6 @@
+baseurl: ""
+title: irwin.xyz
+url: "http://irwin.xyz"
+
+# Build settings
+markdown: kramdown
