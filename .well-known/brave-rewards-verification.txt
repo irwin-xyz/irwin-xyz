@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: irwin.xyz 
+Token: 091765a16b06bcab1c018f9578a78eee9d3e430cd6efc7e3e0bba74f386b9476
